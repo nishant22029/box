@@ -1,0 +1,22 @@
+#box1{
+    margin:10px;
+    border: 50px solid rgb(110, 110, 9);
+    padding: 20px;
+    
+}
+#box2{
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid white;
+    text-align: center;
+    background-color: black;
+    color: aqua;
+
+}
+#box3 { margin: 10px;
+padding: 10px;
+border: 10px solid white;
+text-align: center;
+background-color: black;
+color: aqua;
+}
